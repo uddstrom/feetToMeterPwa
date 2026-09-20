@@ -230,7 +230,7 @@ h1 span {
 .control-heading output {
     color: var(--accent-dark);
     font-family: monospace;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .slider-wrap {
